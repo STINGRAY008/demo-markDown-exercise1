@@ -8,3 +8,6 @@
 ###### Heading 6
 
 This is a demo MarkDown exercise
+<!-- Italics -->
+_this paragraph is going to be  italic using underscores_
+*this paragraph is going to be italic using stars*
